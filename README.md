@@ -9,7 +9,7 @@
  ## Overview
  Karamoja is the most food-insecure region of Uganda. One of the main reasons is the low productivity level of the crops due to intense droughts as well as pest and disease outbreaks.
 
-In Karamoja, several NGOs provide technical support as well as farm inputs to the farmers experiencing extremely low yields. Though, they lack visibility into the overall state of the region and often need to rely on some very local sources of information to prioritize their activities.
+In Karamoja, several NGOs provide technical support as well as farm inputs to the farmers experiencing extremely low yields. Though, they lack visibility into the overall state of the region and often need to rely on some very local sources of information to prioritize their activities.   
 
 Dalberg Data Insights (DDI) has been requested to develop a new food security monitoring tool to support the decision-making of one of those NGOs active in Karamoja.
 
