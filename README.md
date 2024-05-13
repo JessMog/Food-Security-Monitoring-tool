@@ -2,7 +2,7 @@
  An interactive visualization tool of the results for the first crop season in Karamoja, Uganda
    
  ## Link to the visualization (Solution)  
- 
+   
  https://public.tableau.com/views/FoodSecurityMonitoringTool/mapofkaramoja?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  
                  
